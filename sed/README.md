@@ -1,3 +1,4 @@
+[https://blog.51cto.com/lixcto/1436452]
 ## sed高级命令分为三块
 
 * 处理多模式空间（N,D，P）
